@@ -1,10 +1,5 @@
 # 💬🤖 Sentiment Analysis with Zero-Shot & Few-Shot Prompting using Multiple LLMs
 
-> **Project by:** Satyanand Eranki
-> Master’s in Business Analytics, W. P. Carey School of Business, Arizona State University
-
----
-
 ## 🎯 Project Overview
 
 This project investigates how **large language models (LLMs)** perform on **sentiment analysis** tasks under different prompting paradigms — **Zero-Shot**, **Few-Shot**, and **Cross-Model Evaluation**.
